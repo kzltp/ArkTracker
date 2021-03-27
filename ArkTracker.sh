@@ -4,7 +4,7 @@
 # Yazar: Arif KIZILTEPE
 #         kzltpsgm@gmail.com
 #
-# Oluşturma Tarihi: 2019-04-26
+# Oluşturma Tarihi: 2021-03-28
 # Gereksinim;
 # apt-get install jq wget curl
 # 
