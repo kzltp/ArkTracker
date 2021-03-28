@@ -1,6 +1,3 @@
-# ArkTracker
-
-
 # Getting Started
 
 ArkTracker is errata parser. This Debian errata parser ArkTracker use the "Debian Security Announcements (DSA)" to give up to date Debian erratum information.
