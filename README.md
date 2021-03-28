@@ -1,3 +1,3 @@
 # ArkTracker
-![Alt Text](https://media4.giphy.com/media/oauKgFrHWmwF8ZOQuU/giphy.gif)
+![Alt Text](https://media2.giphy.com/media/OIVBUiW2ejOUKqgeur/giphy.gif)
 
