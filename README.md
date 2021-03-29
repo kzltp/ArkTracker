@@ -29,7 +29,7 @@ bash ArkTracker.sh
 
 ## Release Note
 ###### Beta v1
-* ArkTracker gives only information this version.
+* ArkTracker gives only information current version.
 
 
 ## Future
